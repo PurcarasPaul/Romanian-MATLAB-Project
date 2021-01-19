@@ -1,0 +1,3 @@
+Proiect Geometrie Computationala
+
+Functia principala este Proiect_Geometrie_Computationala_Purcaras_Paul_Vasile din folder-ul Matlab
